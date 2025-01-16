@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--catalan-sta-ai-absa--aemdemos.aem.live/
-- After: https://main--catalan-sta-ai-absa--aemdemos.aem.live/
+- Before: https://main--catalan-sta-ai-absa-zzz-demo--aemdemos.aem.live/
+- After: https://main--catalan-sta-ai-absa-zzz-demo--aemdemos.aem.live/
